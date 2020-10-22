@@ -10,7 +10,7 @@ Recetas;
 - Tarta de zanahoria
 
 ## Primeros platos 
--Salmorejo
+- Salmorejo
 
 ## Segundos platos
 - Lasaña
